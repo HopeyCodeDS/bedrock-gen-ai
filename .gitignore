@@ -1,0 +1,7 @@
+.pyc
+.idea
+**/chroma
+env/
+*.xml
+__pycache__/
+venv/
